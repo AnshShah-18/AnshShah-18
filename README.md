@@ -72,9 +72,10 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshShah-18&show_icons=true&theme=transparent" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshShah-18&layout=compact&theme=transparent" alt="Top languages" height="170" />
+  <img src="https://streak-stats.demolab.com?user=AnshShah-18&theme=transparent&hide_border=true" alt="GitHub streak" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshShah-18&theme=github_dark" alt="GitHub summary" />
 </p>
+
 
 ## Connect With Me
 - GitHub: [@AnshShah-18](https://github.com/AnshShah-18)

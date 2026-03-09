@@ -34,41 +34,25 @@
 - **Tools:** Git, Linux, REST APIs
 
 ## Projects
-### GraphRAG Pipeline (Apache Flink, Neo4j, AWS EKS)
+### GraphRAG Pipeline (Apache Flink, Neo4j, AWS EKS) [Link](https://github.com/AnshShah-18/CS441-Distributed-RAG-Pipeline-part3)
 - Built a streaming GraphRAG pipeline to ingest unstructured research documents into typed Neo4j graphs.
 - Enabled dependency analysis and inconsistency detection with replay-safe ingestion and idempotent Cypher upserts.
 - Deployed containerized microservices on AWS EKS for production reliability.
 
-### Incremental RAG Indexing Pipeline (Spark, Hadoop, AWS EMR)
+### Incremental RAG Indexing Pipeline (Spark, Hadoop, AWS EMR) [Link](https://github.com/AnshShah-18/CS441-Distributed-RAG-Pipeline-part2)
 - Built a distributed RAG indexing system over ~600 PDFs on AWS EMR using Spark, Hadoop, and S3.
 - Generated Lucene vector shards for scalable semantic retrieval.
 - Implemented DeltaRAG incremental updates that embedded only changed data, reducing update cycle time by ~30%.
 
-### Summify - Text Summarization Tool
+### Summify - Text Summarization Tool [Link](https://github.com/AnshShah-18/Summify)
 - Trained transformer-based summarization models on 300K+ CNN/DailyMail articles.
 - Evaluated 10+ model variants and improved readability/clarity using structured NLP evaluation metrics.
 
-### [LogLens](https://github.com/AnshShah-18/loglens)
+### LogLens [Link](https://github.com/AnshShah-18/loglens)
 - Developed a lightweight log explorer that groups normalized error patterns and highlights regressions across uploads.
 - Built with FastAPI, SQLAlchemy, SQLite, Next.js, and Tailwind CSS.
 - Focused on fast debugging workflows with clear "new since previous upload" visibility.
 
-## Experience
-### Data Science Intern - Pinkal IT Solutions (Jun 2022 - Aug 2022)
-- Built 5+ Tableau dashboards for executive sales and operations KPIs.
-- Cleaned and transformed 1,600+ records to improve data reliability and reporting quality.
-- Performed exploratory analysis for trend and anomaly detection in leadership reporting.
-
-### Machine Learning Intern - KJSCE (Jun 2023 - Aug 2023)
-- Preprocessed high-dimensional medical datasets (756 samples, 755 features) with PCA (80% variance retained).
-- Built Logistic Regression and ANN models for Parkinson's disease detection, reaching up to 85% accuracy.
-- Performed analysis on imbalanced datasets to guide model strategy and evaluation.
-
-## Certifications
-- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
-- Advanced Computer Vision with TensorFlow (DeepLearning.AI)
-- Introduction to TensorFlow for AI, ML, and DL (DeepLearning.AI)
-- Python Developer (TryCatch)
 
 ## GitHub Stats
 <p align="center">
@@ -79,7 +63,7 @@
 
 ## Connect With Me
 - GitHub: [@AnshShah-18](https://github.com/AnshShah-18)
-- LinkedIn: `Add your LinkedIn URL (resume currently shows linkedin.com/in/Ansh)`
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/ansh-shah-15364a217)
 - Email: `ashah360@uic.edu`
 
 
